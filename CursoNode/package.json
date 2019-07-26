@@ -1,0 +1,22 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Curso de Node",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index2.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "curso",
+    "español"
+  ],
+  "author": "Kevin",
+  "license": "ISC"
+}
