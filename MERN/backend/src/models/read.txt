@@ -1,0 +1,2 @@
+Modelar datos para que antes de que sean guardados
+puedan ser validados basados en un esquema

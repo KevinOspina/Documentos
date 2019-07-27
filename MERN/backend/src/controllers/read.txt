@@ -1,0 +1,2 @@
+Crear funciones para ejecutar en servidor
+ para cuando URLs son visitadas
